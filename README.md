@@ -92,13 +92,6 @@ This project was created for educational purposes, with the following goals:
 
 
 
-📌 Next Steps
-	•	Add basic authentication with Supabase
-	•	Implement full CRUD functionality in the app
-	•	Improve error handling and loading states in SwiftUI
-	•	Deploy the backend for external access
-
-
 🧑‍💻 Author
 
 Manuel Santana
