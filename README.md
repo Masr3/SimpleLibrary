@@ -49,6 +49,7 @@ http://localhost:8080
 
 ```
 
+---
 
 
 📱 Frontend Setup (SwiftUI)
@@ -61,7 +62,6 @@ cd ../frontend
 ```
 
 open SimpleLibrary.xcodeproj
-
 
 
 2. Update the base URL if needed
@@ -79,7 +79,7 @@ If you’re running on a physical device, use your computer’s local IP address
 
 Select a simulator or a physical device and press Run ▶ in Xcode.
 
-
+---
 
 🧠 Learning Goals
 
@@ -90,7 +90,7 @@ This project was created for educational purposes, with the following goals:
 	•	Understand how to structure a project that combines backend and mobile frontend.
 
 
-
+---
 🧑‍💻 Author
 
 Manuel Santana
