@@ -50,7 +50,6 @@ http://localhost:8080
 ```
 
 
-⸻
 
 📱 Frontend Setup (SwiftUI)
 
