@@ -80,7 +80,7 @@ If you’re running on a physical device, use your computer’s local IP address
 
 Select a simulator or a physical device and press Run ▶ in Xcode.
 
-⸻
+
 
 🧠 Learning Goals
 
@@ -90,7 +90,7 @@ This project was created for educational purposes, with the following goals:
 	•	Integrate Supabase as a backend-as-a-service solution.
 	•	Understand how to structure a project that combines backend and mobile frontend.
 
-⸻
+
 
 📌 Next Steps
 	•	Add basic authentication with Supabase
@@ -98,14 +98,12 @@ This project was created for educational purposes, with the following goals:
 	•	Improve error handling and loading states in SwiftUI
 	•	Deploy the backend for external access
 
-⸻
 
 🧑‍💻 Author
 
 Manuel Santana
 Personal learning project 🌱
 
-⸻
 
 📝 License
 
