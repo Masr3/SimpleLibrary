@@ -1,0 +1,27 @@
+# Maven
+/target/
+*.log
+*.class
+*.iml
+.idea/
+.DS_Store
+mvnw
+mvnw.cmd
+
+# OS
+Thumbs.db
+
+# Java
+*.jar
+*.war
+*.ear
+
+# Others
+*.swp
+*.swo
+
+# Environment
+.env
+
+# Sensitive config
+src/main/resources/application.properties
