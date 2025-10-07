@@ -13,16 +13,6 @@ The goal is to combine backend and mobile development in one place to better und
 
 ---
 
-## 📂 Project Structure
-
-SimpleLibrary/
-├── backend/           # Spring Boot project (REST API)
-└── frontend/          # SwiftUI iOS project
-
-> 📝 You can adjust these folder names if your structure changes.
-
----
-
 ## ⚙️ Backend Setup (Spring Boot)
 
 ### 1. Prerequisites
